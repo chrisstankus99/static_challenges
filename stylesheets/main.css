@@ -47,6 +47,5 @@
 }
 
 .outside_of_dam {
-  width: 50%;
-  height: 50%;
+  padding: 25px;
 }
